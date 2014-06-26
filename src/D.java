@@ -9,5 +9,5 @@
  * @author JESSICA
  */
 public class D {
-    
+    String dnii;
 }
